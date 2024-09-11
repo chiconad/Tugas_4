@@ -111,12 +111,12 @@ function prevImage() {
 <style scoped>
 div {
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 32px;
 }
 
 button {
-  padding: 0.5rem 1rem;
-  font-size: 1rem;
+  padding: 8px 16px;
+  font-size: 16px;
   cursor: pointer;
   margin: 5px;
 }
